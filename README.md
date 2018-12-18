@@ -4,6 +4,7 @@
 ![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_confused_nick_young.png)
 ![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_fire.png)
 ![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_heart.png)
+![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_hessie.png)
 ![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_house_with_garden.png)
 ![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_joy.png)
 ![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_merged.png)
