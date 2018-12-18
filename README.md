@@ -1,1 +1,15 @@
 # Crapmoji
+
+![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_checkmark.png)
+![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_confused_nick_young.png)
+![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_fire.png)
+![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_heart.png)
+![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_house_with_garden.png)
+![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_joy.png)
+![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_merged.png)
+![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_parrot.png)
+![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_reverted.png)
+![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_rockstar.png)
+![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_star.png)
+![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_tada.png)
+![alt text](https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_thumbsup.png)
