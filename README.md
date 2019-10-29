@@ -1,6 +1,5 @@
 # Crapmoji
 
-
 <img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_boat.png" alt="crappy boat" width="50px">
 <img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_checkmark.png" alt="crappy checkmark" width="50px">
 <img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_christmas.png" alt="crappy christmas" width="50px">
