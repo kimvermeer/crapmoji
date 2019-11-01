@@ -2,6 +2,7 @@
 
 
 <img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_boat.png" alt="crappy boat" width="50px">
+<img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_broken_heart.png" alt="crappy broken heart" width="50px">
 <img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_checkmark.png" alt="crappy checkmark" width="50px">
 <img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_christmas.png" alt="crappy christmas" width="50px">
 <img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_confused_nick_young.png" alt="crappy confused nick young" width="50px">
