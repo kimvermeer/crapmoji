@@ -16,6 +16,7 @@
 <img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_parrot.png" alt="crappy parrot" width="50px">
 <img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_reverted.png" alt="crappy reverted" width="50px">
 <img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_rockstar.png" alt="crappy rockstar" width="50px">
+<img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_sob.png" alt="crappy star" width="50px">
 <img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_star.png" alt="crappy star" width="50px">
 <img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_tada.png" alt="crappy tada" width="50px">
 <img src="https://raw.githubusercontent.com/kimvermeer/crapmoji/master/emoji/crappy_thumbsup.png" alt="crappy thumbsup" width="50px">
